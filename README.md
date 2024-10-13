@@ -1,4 +1,3 @@
-Here's an **amazing and attractive** `README.md` for your **3D Employee Facial Recognition Sign-In Web App**:
 
 ---
 
@@ -165,5 +164,3 @@ This project is licensed under the **MIT License**. Feel free to use it as you w
 👀 **See it. Believe it.** 👀
 
 ---
-
-This `README.md` will make your project look **professional, exciting**, and **user-friendly**, giving a great first impression to anyone who checks it out!
